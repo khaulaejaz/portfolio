@@ -1,4 +1,4 @@
-#Portfolio Website
+# Portfolio Website
 
 This repository contains a basic personal portfolio website created as part of my practice in HTML and CSS. The project focuses on building a simple layout and organizing content into clear sections.
 
